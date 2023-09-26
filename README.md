@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Divyansh Mishra</h1>
-<h3 align="center">CSE' 23 graduate, currently working as a Software developer (MERN + DevOps) at <a href="https://hellotars.com/"> Tars </a> Constantly learning and improving my skills in the fields of software engineering, DevOps, and cybersecurity. The aim is to create an impact and contribute to the overall success wherever I am working using my skills. Learning, Building, and sometimes breaking the code as well</h3>
+<h3 align="center">CSE' 23 graduate, currently working as a Software developer (MERN + DevOps) at <a href="https://hellotars.com/"> Tars </a>. Constantly learning and improving my skills in the fields of software engineering, DevOps, and cybersecurity. The aim is to create an impact and contribute to the overall success wherever I am working using my skills. Learning, Building, and sometimes breaking the code as well</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
