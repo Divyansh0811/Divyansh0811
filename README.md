@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Divyansh Mishra</h1>
-<h3 align="center">A passionate SDE aspirant from India. My interests lies in developing full-stack web application(MERN stack) and problem-solving using data structures and algorithms. You will find me spending my day on github or <a href="https://leetcode.com/divvvvvvv/"  target=”_blank”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="divvvvvvv" height="30" width="512" /></a> </h3>
+<h3 align="center">CSE' 23 graduate, currently working as a Software developer (MERN + DevOps) at <a href="https://hellotars.com/"> Tars </a> Constantly learning and improving my skills in the fields of software engineering, DevOps, and cybersecurity. The aim is to create an impact and contribute to the overall success wherever I am working using my skills. Learning, Building, and sometimes breaking the code as well</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
