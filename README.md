@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Backend Engineer building production-grade AI systems, scalable backend services,
-and cloud infrastructure for products used by <b>Millions of users globally</b>.
+and cloud infrastructure for products used by <b>millions of users globally</b>.
 </h3>
 
 <p align="center">
@@ -89,6 +89,11 @@ Currently building an AI tutor at <b>Prof. Curious (fka ZuAI)</b>.
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4"
+       width="40"
+       height="40"/>
   </a>
   <a href="https://docs.pydantic.dev/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/110818415?v=4"
