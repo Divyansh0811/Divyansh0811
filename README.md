@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Backend Engineer building production-grade AI systems, scalable backend services,
-and cloud infrastructure for products used by <b>1M+ users</b>.
+and cloud infrastructure for products used by <b>Millions of users globally</b>.
 </h3>
 
 <p align="center">
