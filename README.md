@@ -6,7 +6,7 @@ and cloud infrastructure for products used by <b>Millions of users globally</b>.
 </h3>
 
 <p align="center">
-Currently building AI-powered learning platforms at <b>Prof. Curious (fka ZuAI)</b>.
+Currently building an AI tutor at <b>Prof. Curious (fka ZuAI)</b>.
 </p>
 
 <br/>
